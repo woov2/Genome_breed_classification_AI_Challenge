@@ -14,7 +14,7 @@
 * BorderlineSMOTE
 ## Model
 * VotingClassifier
-1. BaggingClassifie
+1. BaggingClassifier
 2. DecisionTreeClassifier
 3. RidgeClassifier
 4. XGBClassifier
