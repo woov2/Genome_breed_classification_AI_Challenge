@@ -1,4 +1,4 @@
-# Dacon [데이콘 유전체 품종 분 AI 경진대회](https://dacon.io/competitions/official/236035/overview/description)에서 진행된 코드입니다.
+# Dacon [데이콘 유전체 품종 분류 AI 경진대회](https://dacon.io/competitions/official/236035/overview/description)에서 진행된 코드입니다.
 ## Data Pre-processing
 * 'father','mother','gender' 변수는 동일한 값만이 존재하여 모델링에 안좋은 영향을 줄 것으로 판단하여 제거
 * numeric scaling(standardscaler)
