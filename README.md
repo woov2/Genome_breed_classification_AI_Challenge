@@ -1,5 +1,3 @@
-# Dacon [데이콘 유전체 품종 분류 AI 경진대회](https://dacon.io/competitions/official/236035/overview/description)에서 진행된 코드입니다.
-
 # Overview
 ![유전체 img1](https://github.com/user-attachments/assets/47fb6fef-77a5-4e72-8b0f-fde8bf122fa7)
 
